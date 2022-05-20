@@ -23,7 +23,7 @@ More info is coming soon, when I got more stuff done.
 depends system
 
 global func main(input) {
-    string temperatre = getinput("Whats the temperature: );
+    string temperatre = getinput("Whats the temperature: ");
     if (temperature < 20) {
         displayline("Its cold today");
     } 
