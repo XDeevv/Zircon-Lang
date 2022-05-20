@@ -11,9 +11,9 @@ also it has a flexible package manager whit lots of free to use scripts
 
 # Example codes
 Some important things to note:
-- To use certain libraries, you need to use "depends" and then type the name of the package
-- "global" means public 
-- To make comments you use "#" or "//"
+- To use certain libraries, you need to use "``depends``" and then type the name of the package
+- "``global``" means public 
+- To make comments you use "``#``" or "``//``"
 
 More info is coming soon, when I got more stuff done.
 
