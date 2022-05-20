@@ -27,7 +27,7 @@ global func main(input) {
     if (temperature < 20) {
         displayline("Its cold today");
     } 
-    elif (temperature > 20) {
+    else if (temperature > 20) {
         displayline("Its hot today");
     }
 } 
