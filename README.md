@@ -19,7 +19,7 @@ More info is coming soon, when I got more stuff done.
 
 ## Temperature
 
-```
+```cs
 depends system
 
 global func main(input) {
@@ -35,7 +35,7 @@ global func main(input) {
 
 ## Hello World
 
-```
+```cs
 depends system
 global func main(input) {
    display("Hello, world");
