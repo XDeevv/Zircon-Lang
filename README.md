@@ -37,6 +37,7 @@ global func main(input) {
 
 ```cs
 depends system
+
 global func main(input) {
    display("Hello, world");
 }
