@@ -1,5 +1,6 @@
 ![image](https://cdn.discordapp.com/attachments/910436116811878410/977341210228322324/textbutgray.png)
 ![image](https://img.shields.io/badge/Version-0.0.0-red)
+![image](https://img.shields.io/badge/license-MIT-green)
 
 
 
