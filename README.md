@@ -1,16 +1,16 @@
-![image](https://cdn.discordapp.com/attachments/910436116811878410/977341210228322324/textbutgray.png)
 ![image](https://img.shields.io/badge/Version-0.0.0-red)
 ![image](https://img.shields.io/badge/license-MIT-green)
 
 
 
-# This language is not done yet and coming soon
+# About podzol
+**!WARNING!**: This is a small overview of the prgramming language, its nt released yet.
 
-Wsharp is an easy to use programming language, its made with c++ and enspired by swift
-also it has a flexible package manager whit lots of free to use scripts
+Podzol is a simple to write, line ignoring and compiled language inspired by **swift**, **rust** and **c#**. its made in ``c++`` and a few open surce libraries. also it has a rich list of packages from the built in package installer you can use for free.
+ 
 
-# Example codes
-Some important things to know:
+# Examples 
+### Some important things to know:
 - To use certain libraries, you need to use "``implement "<namespace>";``"
 - "``global``" means public and by default all variablers and methods are private
 - To make singleline comments you use "``#Comment``" or "``//Comment``"
@@ -19,9 +19,9 @@ Some important things to know:
 - using this diagram "``msgbx("<Text>", "<Title>", <Error/Info/Warn>);``" you can create messagebxes like this: https://imgur.com/a/XxfUIIg
 - you can specify if you a part of your code to run on release or debug using this: "``on(debug/release) { <code>; }``" 
 
-**More info is coming soon, when I got more stuff done.**
+*More info is coming soon, when I got more stuff done.*
 
-## Hello World
+### Hello World
 
 ```swift
 implement "<gq.pdz.standard>";
@@ -32,7 +32,7 @@ global func main() {
 }
 ```
 
-## Hello, <name>
+### Hello, "yourname"
 
 ```swift
 implement "<gq.pdz.standard>";
