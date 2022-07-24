@@ -1,0 +1,8 @@
+implement "<gq.pdz.standard>";
+namespace "hello";
+
+global func main() {
+    string name = getline("Enter your name: ");
+    int age = getline("How old are you?: ");
+    displayline($"Hello, {name}. you are {age} years old!");
+}

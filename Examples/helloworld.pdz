@@ -1,0 +1,6 @@
+implement "<gq.pdz.standard>";
+namespace "hello";
+
+global func main() {
+    displayline("Hello, world");
+}
