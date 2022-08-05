@@ -33,7 +33,7 @@ Podzol is a simple to write, line ignoring and intepreted language inspired by *
 ### Hello World
 
 ```swift
-implement "<gq.pdz.standard>";
+implement "<org.pdz.standard>";
 namespace "hello";
 
 global func main() {
@@ -44,7 +44,7 @@ global func main() {
 ### Hello, "yourname"
 
 ```swift
-implement "<gq.pdz.standard>";
+implement "<org.pdz.standard>";
 namespace "hello";
 
 global func main() {
