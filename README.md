@@ -6,7 +6,7 @@
 # About podzol
 **!WARNING!**: This is a small overview of the prgramming language, its nt released yet.
 
-Podzol is a simple to write, line ignoring and compiled language inspired by **swift**, **rust** and **c#**. its made in ``c++`` and a few open surce libraries. also it has a rich list of packages from the built in package installer you can use for free.
+Podzol is a simple to write, line ignoring and intepreted language inspired by **swift**, **rust** and **c#**. its made in ``c++`` and a few open surce libraries. also it has a rich list of packages from the built in package installer you can use for free.
 
 #### Some useful links:
 - 🌐 Podzol website: `not up yet`
