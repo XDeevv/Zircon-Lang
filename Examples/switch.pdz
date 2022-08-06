@@ -1,0 +1,18 @@
+implement "<org.pdz.standard>";
+namespace "switch";
+
+global func main() {
+    string q = getline("(Y / A / M / X /C) Enter your answer: ");
+    switch q {
+        case "Y":
+            displayline("you pressed the button y");
+        case "A":
+            displayline("you pressed the button a");
+        case "M":
+            displayline("you pressed the button m");
+        case "X":
+            displayline("you pressed the button x");
+        case "C":
+            displayline("you pressed the button c");
+    }
+}
