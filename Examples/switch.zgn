@@ -1,4 +1,4 @@
-implement "<org.pdz.standard>";
+implement "<org.zgn.standard>";
 namespace "switch";
 
 global func main() {
