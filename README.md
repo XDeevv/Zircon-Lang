@@ -1,7 +1,7 @@
 ![image](https://img.shields.io/badge/Version-0.0.0-red)
 ![image](https://img.shields.io/badge/license-MIT-green)
 
-<img src="https://cdn.discordapp.com/attachments/936652528966320168/1006971462244110457/Zirgon_Logo_Transparent_Dark.png" width="400" height="200">
+<img src="https://cdn.discordapp.com/attachments/936652528966320168/1006971462244110457/Zirgon_Logo_Transparent_Dark.png" align="center" width="400" height="200">
 
 
 # About Zirgon
