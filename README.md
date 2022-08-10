@@ -5,7 +5,7 @@
 
 
 # About Zirgon
-> **Warning**: This is a small overview of the prgramming language, its nt released yet.
+> **Warning**: This is a small overview of the prgramming language, its not released yet.
 
 Zirgon is a simple to write, line ignoring and interpreted language inspired by **swift**, **rust** and **c#**. its made in ``c++`` and a few open surce libraries. also it has a rich list of packages from the built in package installer you can use for free.
 
