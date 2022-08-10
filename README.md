@@ -3,13 +3,13 @@
 
 
 
-# About podzol
+# About Zirgon
 **!WARNING!**: This is a small overview of the prgramming language, its nt released yet.
 
-Podzol is a simple to write, line ignoring and interpreted language inspired by **swift**, **rust** and **c#**. its made in ``c++`` and a few open surce libraries. also it has a rich list of packages from the built in package installer you can use for free.
+Zirgon is a simple to write, line ignoring and interpreted language inspired by **swift**, **rust** and **c#**. its made in ``c++`` and a few open surce libraries. also it has a rich list of packages from the built in package installer you can use for free.
 
 #### Some useful links:
-- 🌐 Podzol website: `not up yet`
+- 🌐 Zirgon website: `not up yet`
 - 🌐 My website: https://www.xarisdev.com/
 - 💿 Wiki page: https://github.com/vp10gr/podzol/wiki
 - 🔍 Source code: `not up yet`
@@ -19,11 +19,11 @@ Podzol is a simple to write, line ignoring and interpreted language inspired by 
 
 # Examples 
 ### Some important things to know:
-- All podzol programs start with ``.pdz``
+- All podzol programs start with ``.zgn``
 - To use certain libraries, you need to use "``implement "<namespace>";``"
 - "``global``" means public and by default all variablers and methods are private
 - To make singleline comments you use "``#Comment``" or "``//Comment``"
-- To make multiline comments you use "``/*Comment*/``" or "``#-Comment-#``"
+- To make multiline comments you use "``/*Comment*/``" or "``##Comment##``"
 - the "``die;``" block kills the program
 - using this diagram "``msgbx("<Text>", "<Title>", <Error/Info/Warn>);``" you can create messagebxes like this: https://imgur.com/a/XxfUIIg
 - you can specify if you a part of your code to run on release or debug using this: "``on(debug/release) { <code>; }``" 
@@ -33,7 +33,7 @@ Podzol is a simple to write, line ignoring and interpreted language inspired by 
 ### Hello World
 
 ```swift
-implement "<org.pdz.standard>";
+implement "<org.zgn.standard>";
 namespace "hello";
 
 global func main() {
@@ -44,7 +44,7 @@ global func main() {
 ### Hello, "yourname"
 
 ```swift
-implement "<org.pdz.standard>";
+implement "<org.zgn.standard>";
 namespace "hello";
 
 global func main() {
