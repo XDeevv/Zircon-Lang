@@ -17,7 +17,7 @@ Zircon is a simple to write, line ignoring and interpreted language inspired by 
 - 🔍 Source code: `not up yet`
 - 🧶 License: [Click here](https://github.com/vp10gr/podzol/blob/main/license)
 - 🌐 Official github repository [Click here](https://github.com/vp10gr/Zircon-Lang/)
- 
+- 🔌 Official vscode extension pack: `not up yet`
 
 # Examples 
 ### Some important things to know:
