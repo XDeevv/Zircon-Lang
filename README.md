@@ -10,7 +10,7 @@
 Zircon is a simple to write, line ignoring and interpreted language inspired by **swift**, **rust** and **c#**. its made in ``c++`` and a few open surce libraries. also it has a rich list of packages from the built in package installer you can use for free.
 
 #### Some useful links:
-- 🌐 Zirgon website: `not up yet`
+- 🌐 Zircon website: `not up yet`
 - 🌐 My website: [Click here](https://www.xarisdev.com/)
 - 💿 Wiki page: [Click here](https://github.com/vp10gr/podzol/wiki)
 - 🔍 Source code: `not up yet`
