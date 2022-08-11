@@ -7,7 +7,7 @@
 # About Zirgon
 > **Warning**: This is a small overview of the prgramming language and its not released yet.
 
-Zirgon is a simple to write, line ignoring and interpreted language inspired by **swift**, **rust** and **c#**. its made in ``c++`` and a few open surce libraries. also it has a rich list of packages from the built in package installer you can use for free.
+Zircon is a simple to write, line ignoring and interpreted language inspired by **swift**, **rust** and **c#**. its made in ``c++`` and a few open surce libraries. also it has a rich list of packages from the built in package installer you can use for free.
 
 #### Some useful links:
 - 🌐 Zirgon website: `not up yet`
@@ -34,7 +34,7 @@ Zirgon is a simple to write, line ignoring and interpreted language inspired by 
 ### Hello World
 
 ```swift
-implement "<org.zgn.standard>";
+implement "<org.zc.standard>";
 namespace "hello";
 
 global func main() {
@@ -45,7 +45,7 @@ global func main() {
 ### Hello, "yourname"
 
 ```swift
-implement "<org.zgn.standard>";
+implement "<org.zc.standard>";
 namespace "hello";
 
 global func main() {
