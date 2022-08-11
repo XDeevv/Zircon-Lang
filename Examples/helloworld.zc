@@ -1,0 +1,6 @@
+implement "<gq.zc.standard>";
+namespace "hello";
+
+global func main() {
+    displayline("Hello, Zircon");
+}

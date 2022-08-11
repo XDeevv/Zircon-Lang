@@ -1,6 +1,0 @@
-implement "<gq.zgn.standard>";
-namespace "hello";
-
-global func main() {
-    displayline("Hello, world");
-}
