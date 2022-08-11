@@ -8,7 +8,7 @@
 > **Warning**: This is a small overview of the prgramming language and its not released yet.
 
 Zircon is a simple to write, line ignoring and interpreted language inspired by **swift**, **rust** and **c#**. its made in ``c++`` and a few open surce libraries. also it has a rich list of packages from the built in package installer you can use for free.
-- **Current addition**: **[Added grammar file](https://github.com/vp10gr/Zircon-Lang/blob/main/Grammar/zircon_grammar.txt)**, **[Added image logo files: .png and .psd]()**
+- **Current addition**: **[Added grammar file](https://github.com/vp10gr/Zircon-Lang/blob/main/Grammar/zircon_grammar.txt)**
 - **Currently working on**: **``VSCode snippets``**
 
 #### Some useful links:
@@ -30,7 +30,7 @@ Zircon is a simple to write, line ignoring and interpreted language inspired by 
 - To make multiline comments you use "``/*Comment*/``" or "``##Comment##``"
 - the "``die;``" block kills the program
 - using this diagram "``msgbx("<Text>", "<Title>", <Error/Info/Warn>);``" you can create messagebxes like [this](https://imgur.com/a/XxfUIIg) 
-- you can specify if you a part of your code to run on release or debug using this: "``on(debug/release) { <code>; }``" 
+- you can specify if you a part of your code to run on release or debug using this: "``on(debug/release) { <code>; }``", **Changed license to apache v2**
 
 *More info is coming soon, when I got more stuff done.*
 
