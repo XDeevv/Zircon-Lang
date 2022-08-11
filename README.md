@@ -1,14 +1,14 @@
 ![image](https://img.shields.io/badge/Version-0.0.0-red)
 ![image](https://img.shields.io/badge/license-MIT-green)
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/936652528966320168/1007262058766667796/Zircon_Logo_Transparent_Dark.png" width="400" height="200"></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/936652528966320168/1007262058766667796/Zircon_Logo_Transparent_Dark.png" width="450" height="200"></p>
 
 
 # About Zircon
 > **Warning**: This is a small overview of the prgramming language and its not released yet.
 
 Zircon is a simple to write, line ignoring and interpreted language inspired by **swift**, **rust** and **c#**. its made in ``c++`` and a few open surce libraries. also it has a rich list of packages from the built in package installer you can use for free.
-- **Current addition**: **[Added grammar file](https://github.com/vp10gr/Zircon-Lang/blob/main/Grammar/zircon_grammar.txt)**
+- **Current addition**: **[Added grammar file](https://github.com/vp10gr/Zircon-Lang/blob/main/Grammar/zircon_grammar.txt)**, **Changed license to apache v2**
 - **Currently working on**: **``VSCode snippets``**
 
 #### Some useful links:
