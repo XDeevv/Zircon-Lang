@@ -20,7 +20,7 @@ Zircon is a simple to write, line ignoring and interpreted language inspired by 
 
 # Examples 
 ### Some important things to know:
-- All podzol programs start with ``.zgn``
+- All podzol programs start with ``.zc``
 - To use certain libraries, you need to use "``implement "<namespace>";``"
 - "``global``" means public and by default all variablers and methods are private
 - To make singleline comments you use "``#Comment``" or "``//Comment``"
