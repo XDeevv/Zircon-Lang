@@ -1,4 +1,4 @@
-implement "<gq.zgn.standard>";
+implement "<gq.zc.standard>";
 namespace "hello";
 
 global func main() {
