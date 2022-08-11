@@ -1,0 +1,43 @@
+- implement "<<namespace>>";                                                     : Imports functions and variables from other class
+- namespace "<namespace>"                                                        : Creates a public use name for the script/library
+- global/non func <name of function>() { <code>; }                               : Creates a method that when called executes the code
+- <name of function>(<variable>);                                                : Calls the function
+- int <name of int> = <number>;                                                  : Creates a numeric variables
+- string <name of str> = "<text>";                                               : Creates text variables
+- bool <name> = <true/false>;                                                    : Stores values in true or false
+- char <name> = <character>;                                                     : Creates single character variables
+- float                                                                          : Creates a float variable
+- byte                                                                           : Creates a byte variable
+- short                                                                          : Creates a 16-bit numeric variable
+- long                                                                           : Creates a 64-bit numeric variable
+- double <name> = <number.number>;                                               : Creates floating point numbers
+- class <name of class> { <every code block> }                                   : Creates a class that stores other objects (code blocks)
+- if (<something> <operator e.g. ==> <something> ) { <code>; }                   : Checks 2 or more variables
+- elif (<came as if>) { <code>; }                                                : Checks 2 or more variables exactly like the if statement
+- else { <code>; }                                                               : Runs the code inside only when if and elif fails
+- try { <code>; }                                                                : Runs the code if no exception happens
+- except { <code>; }                                                             : Runs the code if try block fails
+- die;                                                                           : Kills the program
+- while ( <something> ) { <code>; }                                              : Loops code when something is true
+- break;                                                                         : Stops while Loops
+- return 0;                                                                      : Terminates the execution of the method in which it appears and returns control to the calling method
+- for (<variable>; <variable> <operator> <number>; <variable>++) { <code>; }     : Executes one or more statements multiple times as long as the loop condition is satisfied
+- enum  <name> { <something>, <something1>, <something2> }                       : Represents a group of constants
+- <enum name> <variable name> = enum.<something>;                                : Calls the enum content and stores it into a variable
+- #comment or //comment                                                          : Creates an inline comment
+- /*comment*/ or #- comment -#                                                   : Creates a multiline comment 
+- display("<Text>: ", <variable>);                                               : Display text, numbers, arrays and variables to the console
+- displayline("<Text>: ", <variable>);                                           : Display text, numbers, arrays and variables to the console but creates a new line too
+- getkey("Text: ")                                                               : Gets only 1 character from the user
+- getline("Text: ")                                                              : Gets input from user and shows some text
+- string[] <array name> = {"<something>", {"<something1>", {"<something2>"};     : Stores multiple text in a single variable, instead of declaring separate variables for each value
+- int[] <array name> = {10, 20, 30, 40};                                         : Stores multiple numeric values in a single variable, instead of declaring separate variables for each value
+- display(<arrayname[<arrayposnumber>]>.toString());                             : Gets the specified array item using the position number
+- switch(<argument>) { <case> }                                                  : Statement to select one of many code blocks to be executed
+- case <something>: return <something>;                                          : One of the cases in a switch statement
+- msgbx("<Text>", "<Title>", <Error/Info/Warn>);                                 : Creates a gui messagebox;
+- question("<Text>", "<Title>");                                                 : Creates a gui question dialog
+- on(debug) { <code>; }                                                          : Runs the part of the code only when compilemode is set to debug
+- on(release) { <code>; }                                                        : Runs the part of the code only when compilemode is set to release
+- on(<windows/mac/linux/custom (can be supported for interpreter)>) { <code>; }  : Runs the part of the code only if the code runs on specified platform
+- //Part <name of part> //EndPart                                                : Some code editors can support the 'part comment block', this block can specify specific parts of your code so you can write cleaner
