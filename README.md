@@ -8,7 +8,7 @@
 > **Warning**: This is a small overview of the prgramming language and its not released yet.
 
 Zircon is a simple to write, line ignoring and interpreted language inspired by **swift**, **rust** and **c#**. its made in ``c++`` and a few open surce libraries. also it has a rich list of packages from the built in package installer you can use for free.
-- **Current addition**: **[Added grammar file]()**
+- **Current addition**: **[Added grammar file]()**, **[Added image logo: .png and .psd]()**
 - **Currently working on**: **``VSCode snippets``**
 
 #### Some useful links:
