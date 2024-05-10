@@ -37,10 +37,9 @@ Zircon is a simple to write, line ignoring and interpreted language inspired by 
 ### Hello World
 
 ```swift
-implement "<org.zc.standard>";
 namespace "hello";
 
-global func main() {
+func main() {
     displayline("Hello, world");
 }
 ```
@@ -48,13 +47,12 @@ global func main() {
 ### Hello, "yourname"
 
 ```swift
-implement "<org.zc.standard>";
 namespace "hello";
 
 global func main() {
     string name = getline("Enter your name: ");
     int age = getline("How old are you?: ");
-    displayline($"Hello, {name}. you are {age} years old!");
+    displayline(formatstr("Hello, {name}. you are {age} years old!"));
 }
 
 ```
