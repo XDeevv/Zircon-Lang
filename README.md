@@ -7,9 +7,7 @@
 # About Zircon
 > **Warning**: This is a small overview of the programming language and its not released yet.
 
-Zircon is a simple to write, line ignoring and interpreted language inspired by **swift**, **rust** and **c#**. its made in ``c++`` and a few open surce libraries. also it has a rich list of packages from the built in package installer you can use for free.
-- **Current addition**: **[Added grammar file](https://github.com/vp10gr/Zircon-Lang/blob/main/Grammar/zircon_grammar.txt)**, **Changed license to apache v2**
-- **Currently working on**: **``VSCode snippets``**
+Zircon is a simple to write, line ignoring and interpreted language inspired by **swift**, **rust** and **c#**. its made in ``c#``. also it has a rich list of packages from the built in package installer you can use for free.
 
 #### Some useful links:
 - 🌐 Zircon website: `not up yet`
