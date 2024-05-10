@@ -49,11 +49,8 @@ namespace "hello";
 
 global func main() {
     string name = getline("Enter your name: ");
-    int age = getline("How old are you?: ");
+    integer age = getline("How old are you?: ");
     displayline(formatstr("Hello, {name}. you are {age} years old!"));
 }
 
 ```
-
----
-© 2022 XarisDev
